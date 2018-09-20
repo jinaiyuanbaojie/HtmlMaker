@@ -1,0 +1,4 @@
+target 'htmlmaker' do
+  use_frameworks!
+  pod 'WCDB.swift'
+end
